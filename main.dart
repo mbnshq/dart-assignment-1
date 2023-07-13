@@ -12,15 +12,15 @@ void main() {
     print('$x $y');
 // Answer 3
 
-  String city = 'Sargodha';
-  String state = 'Punjab';
+  String city = '';
+  String state = '';
   String home = '$city, $state';
   print(home);
 
 // Answer 4
 
- String firstName = "Mubeen";
- String lastName = "Ishaq";
+ String firstName = "";
+ String lastName = "";
  String fullName = '$firstName $lastName';
  print(fullName);
 
@@ -71,7 +71,7 @@ void main() {
 
 // Answer 10
 
- String? name1 = 'Muhammad Ali';
+ String? name1 = '';
  String? address1 = null;
 
 // Answer 11
